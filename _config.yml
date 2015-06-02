@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+#permalink:        pretty
+
+# Setup
+title:            "Algebra and Trigonometry"
+tagline:          'from http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@5.154 (CC-BY)'
+url:              https://github.com/philschatz/algebra-trigonometry-book
+origin:           http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@5.154
+
+author:
+  name:           'Openstax'
+  url:            https://github.com/openstax
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+bookviewer:       /book-viewer
