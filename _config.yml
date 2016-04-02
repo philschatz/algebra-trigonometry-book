@@ -1,3 +1,4 @@
+
 # Dependencies
 markdown:         kramdown
 
@@ -5,10 +6,10 @@ markdown:         kramdown
 #permalink:        pretty
 
 # Setup
-title:            "Algebra and Trigonometry"
-tagline:          'from http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@5.154 (CC-BY)'
-url:              https://github.com/philschatz/algebra-trigonometry-book
-origin:           http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@5.154
+title:            'Algebra and Trigonometry'
+tagline:          'from http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@5.224 (CC-BY)'
+url:              https://github.com/philschatz/algebra-trig-book
+origin:           http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@5.224
 
 author:
   name:           'Openstax'
@@ -17,6 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          1.0.0
+version:          5.224
 
 bookviewer:       /book-viewer
+
