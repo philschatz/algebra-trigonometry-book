@@ -20,5 +20,5 @@ paginate:         5
 # Custom vars
 version:          5.224
 
-bookviewer:       /book-viewer
+bookviewer:       http://philschatz.com/book-viewer
 
