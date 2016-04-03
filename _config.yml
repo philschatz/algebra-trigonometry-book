@@ -8,7 +8,7 @@ markdown:         kramdown
 # Setup
 title:            'Algebra and Trigonometry'
 tagline:          'from http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@5.224 (CC-BY)'
-url:              https://github.com/philschatz/algebra-trig-book
+url:              https://github.com/philschatz/algebra-trigonometry-book
 origin:           http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@5.224
 
 author:
