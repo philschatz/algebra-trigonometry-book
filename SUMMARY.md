@@ -10,7 +10,7 @@ layout: page
 2.  {: .chapter} [Prerequisites](contents/m51240.md)
     1.  [Real Numbers: Algebra Essentials](contents/m51239.md)
     2.  [Exponents and Scientific Notation](contents/m51241.md)
-    3.  [Radicals and Rational Expressions](contents/m51242.md)
+    3.  [Radicals and Rational Exponents](contents/m51242.md)
     4.  [Polynomials](contents/m51246.md)
     5.  [Factoring Polynomials](contents/m51247.md)
     6.  [Rational Expressions](contents/m51248.md)
@@ -112,5 +112,5 @@ layout: page
     6.  [Binomial Theorem](contents/m49449.md)
     7.  [Probability](contents/m49450.md)
 
-15. {: .appendix} [Appendix](contents/m53186.md)
+15. {: .appendix} [Proofs, Identities, and Toolkit Functions](contents/m53186.md)
 
