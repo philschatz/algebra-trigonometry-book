@@ -17,8 +17,8 @@
   <!-- WARNING! The 'metadata' section is read only. Do not edit below.
        Changes to the metadata section in the source will not be saved. -->
 
-  <md:repository>http://legacy.cnx.org/content</md:repository>
-  <md:content-url>http://legacy.cnx.org/content/col11758/1.6</md:content-url>
+  <md:repository>https://legacy.cnx.org/content</md:repository>
+  <md:content-url>https://legacy.cnx.org/content/col11758/1.6</md:content-url>
   <md:content-id>col11758</md:content-id>
   <md:title>Algebra and Trigonometry</md:title>
   
@@ -108,7 +108,7 @@
   <col:content>
     
       <col:module document="m63486" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.1">
         <md:title>Preface</md:title>
         
@@ -131,7 +131,7 @@
           
     
       <col:module document="m51240" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction to Prerequisites</md:title>
         
@@ -143,7 +143,7 @@
     
     
       <col:module document="m51239" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.16">
         <md:title>Real Numbers: Algebra Essentials</md:title>
         
@@ -155,7 +155,7 @@
     
     
       <col:module document="m51241" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Exponents and Scientific Notation</md:title>
         
@@ -167,7 +167,7 @@
     
     
       <col:module document="m51242" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Radicals and Rational Exponents</md:title>
         
@@ -179,7 +179,7 @@
     
     
       <col:module document="m51246" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Polynomials</md:title>
         
@@ -191,7 +191,7 @@
     
     
       <col:module document="m51247" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Factoring Polynomials</md:title>
         
@@ -203,7 +203,7 @@
     
     
       <col:module document="m51248" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Rational Expressions</md:title>
         
@@ -229,7 +229,7 @@
           
     
       <col:module document="m51251" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Introduction to Equations and Inequalities</md:title>
         
@@ -241,7 +241,7 @@
     
     
       <col:module document="m51252" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>The Rectangular Coordinate Systems and Graphs</md:title>
         
@@ -253,7 +253,7 @@
     
     
       <col:module document="m51253" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Linear Equations in One Variable</md:title>
         
@@ -265,7 +265,7 @@
     
     
       <col:module document="m51254" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Models and Applications</md:title>
         
@@ -277,7 +277,7 @@
     
     
       <col:module document="m51255" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Complex Numbers</md:title>
         
@@ -289,7 +289,7 @@
     
     
       <col:module document="m51256" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Quadratic Equations</md:title>
         
@@ -301,7 +301,7 @@
     
     
       <col:module document="m51258" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.12">
         <md:title>Other Types of Equations</md:title>
         
@@ -313,7 +313,7 @@
     
     
       <col:module document="m51259" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Linear Inequalities and Absolute Value Inequalities</md:title>
         
@@ -339,7 +339,7 @@
           
     
       <col:module document="m51260" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction to Functions</md:title>
         
@@ -351,7 +351,7 @@
     
     
       <col:module document="m51261" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Functions and Function Notation</md:title>
         
@@ -363,7 +363,7 @@
     
     
       <col:module document="m51262" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Domain and Range</md:title>
         
@@ -375,7 +375,7 @@
     
     
       <col:module document="m51263" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Rates of Change and Behavior of Graphs</md:title>
         
@@ -387,7 +387,7 @@
     
     
       <col:module document="m51265" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Composition of Functions</md:title>
         
@@ -399,7 +399,7 @@
     
     
       <col:module document="m51266" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Transformation of Functions</md:title>
         
@@ -411,7 +411,7 @@
     
     
       <col:module document="m51267" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Absolute Value Functions</md:title>
         
@@ -423,7 +423,7 @@
     
     
       <col:module document="m51268" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.11">
         <md:title>Inverse Functions</md:title>
         
@@ -449,7 +449,7 @@
           
     
       <col:module document="m51269" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction to Linear Functions</md:title>
         
@@ -461,7 +461,7 @@
     
     
       <col:module document="m51270" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Linear Functions</md:title>
         
@@ -473,7 +473,7 @@
     
     
       <col:module document="m51271" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Modeling with Linear Functions</md:title>
         
@@ -485,7 +485,7 @@
     
     
       <col:module document="m51272" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Fitting Linear Models to Data</md:title>
         
@@ -511,7 +511,7 @@
           
     
       <col:module document="m51273" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Introduction to Polynomial and Rational Functions</md:title>
         
@@ -523,7 +523,7 @@
     
     
       <col:module document="m51274" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.12">
         <md:title>Quadratic Functions</md:title>
         
@@ -535,7 +535,7 @@
     
     
       <col:module document="m51275" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Power Functions and Polynomial Functions</md:title>
         
@@ -547,7 +547,7 @@
     
     
       <col:module document="m51276" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Graphs of Polynomial Functions</md:title>
         
@@ -559,7 +559,7 @@
     
     
       <col:module document="m51277" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Dividing Polynomials</md:title>
         
@@ -571,7 +571,7 @@
     
     
       <col:module document="m51278" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Zeros of Polynomial Functions</md:title>
         
@@ -583,7 +583,7 @@
     
     
       <col:module document="m51279" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Rational Functions</md:title>
         
@@ -595,7 +595,7 @@
     
     
       <col:module document="m51280" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Inverses and Radical Functions</md:title>
         
@@ -607,7 +607,7 @@
     
     
       <col:module document="m51281" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Modeling Using Variation</md:title>
         
@@ -633,7 +633,7 @@
           
     
       <col:module document="m49356" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction to Exponential and Logarithmic Functions</md:title>
         
@@ -645,7 +645,7 @@
     
     
       <col:module document="m49361" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.11">
         <md:title>Exponential Functions</md:title>
         
@@ -657,7 +657,7 @@
     
     
       <col:module document="m49362" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.13">
         <md:title>Graphs of Exponential Functions</md:title>
         
@@ -669,7 +669,7 @@
     
     
       <col:module document="m49363" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Logarithmic Functions</md:title>
         
@@ -681,7 +681,7 @@
     
     
       <col:module document="m49364" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.15">
         <md:title>Graphs of Logarithmic Functions</md:title>
         
@@ -693,7 +693,7 @@
     
     
       <col:module document="m49365" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Logarithmic Properties</md:title>
         
@@ -705,7 +705,7 @@
     
     
       <col:module document="m49366" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Exponential and Logarithmic Equations</md:title>
         
@@ -717,7 +717,7 @@
     
     
       <col:module document="m49367" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Exponential and Logarithmic Models</md:title>
         
@@ -729,7 +729,7 @@
     
     
       <col:module document="m49368" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Fitting Exponential Models to Data</md:title>
         
@@ -755,7 +755,7 @@
           
     
       <col:module document="m51282" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Introduction to The Unit Circle: Sine and Cosine Functions</md:title>
         
@@ -767,7 +767,7 @@
     
     
       <col:module document="m51283" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Angles</md:title>
         
@@ -779,7 +779,7 @@
     
     
       <col:module document="m51284" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Right Triangle Trigonometry</md:title>
         
@@ -791,7 +791,7 @@
     
     
       <col:module document="m51285" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Unit Circle</md:title>
         
@@ -803,7 +803,7 @@
     
     
       <col:module document="m51286" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>The Other Trigonometric Functions</md:title>
         
@@ -829,7 +829,7 @@
           
     
       <col:module document="m49386" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction to Periodic Functions</md:title>
         
@@ -841,7 +841,7 @@
     
     
       <col:module document="m49387" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Graphs of the Sine and Cosine Functions</md:title>
         
@@ -853,7 +853,7 @@
     
     
       <col:module document="m49389" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Graphs of the Other Trigonometric Functions</md:title>
         
@@ -865,7 +865,7 @@
     
     
       <col:module document="m49390" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Inverse Trigonometric Functions</md:title>
         
@@ -891,7 +891,7 @@
           
     
       <col:module document="m51287" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction to Trigonometric Identities and Equations</md:title>
         
@@ -903,7 +903,7 @@
     
     
       <col:module document="m51288" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Solving Trigonometric Equations with Identities</md:title>
         
@@ -915,7 +915,7 @@
     
     
       <col:module document="m51289" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Sum and Difference Identities</md:title>
         
@@ -927,7 +927,7 @@
     
     
       <col:module document="m51290" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Double-Angle, Half-Angle, and Reduction Formulas</md:title>
         
@@ -939,7 +939,7 @@
     
     
       <col:module document="m51291" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Sum-to-Product and Product-to-Sum Formulas</md:title>
         
@@ -951,7 +951,7 @@
     
     
       <col:module document="m51292" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Solving Trigonometric Equations</md:title>
         
@@ -977,7 +977,7 @@
           
     
       <col:module document="m49402" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction to Further Applications of Trigonometry</md:title>
         
@@ -989,7 +989,7 @@
     
     
       <col:module document="m49404" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Non-right Triangles: Law of Sines</md:title>
         
@@ -1001,7 +1001,7 @@
     
     
       <col:module document="m49405" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Non-right Triangles: Law of Cosines</md:title>
         
@@ -1013,7 +1013,7 @@
     
     
       <col:module document="m49406" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Polar Coordinates</md:title>
         
@@ -1025,7 +1025,7 @@
     
     
       <col:module document="m49407" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Polar Coordinates: Graphs</md:title>
         
@@ -1037,7 +1037,7 @@
     
     
       <col:module document="m49408" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Polar Form of Complex Numbers</md:title>
         
@@ -1049,7 +1049,7 @@
     
     
       <col:module document="m49409" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Parametric Equations</md:title>
         
@@ -1061,7 +1061,7 @@
     
     
       <col:module document="m49411" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Parametric Equations: Graphs</md:title>
         
@@ -1073,7 +1073,7 @@
     
     
       <col:module document="m49412" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Vectors</md:title>
         
@@ -1099,7 +1099,7 @@
           
     
       <col:module document="m49418" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction to Systems of Equations and Inequalities</md:title>
         
@@ -1111,7 +1111,7 @@
     
     
       <col:module document="m49420" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Systems of Linear Equations: Two Variables</md:title>
         
@@ -1123,7 +1123,7 @@
     
     
       <col:module document="m49419" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Systems of Linear Equations: Three Variables</md:title>
         
@@ -1135,7 +1135,7 @@
     
     
       <col:module document="m49431" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Systems of Nonlinear Equations and Inequalities: Two Variables</md:title>
         
@@ -1147,7 +1147,7 @@
     
     
       <col:module document="m49432" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Partial Fractions</md:title>
         
@@ -1159,7 +1159,7 @@
     
     
       <col:module document="m49433" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Matrices and Matrix Operations</md:title>
         
@@ -1171,7 +1171,7 @@
     
     
       <col:module document="m49434" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Solving Systems with Gaussian Elimination</md:title>
         
@@ -1183,7 +1183,7 @@
     
     
       <col:module document="m49435" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Solving Systems with Inverses</md:title>
         
@@ -1195,7 +1195,7 @@
     
     
       <col:module document="m49436" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Solving Systems with Cramer's Rule</md:title>
         
@@ -1221,7 +1221,7 @@
           
     
       <col:module document="m49437" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.2">
         <md:title>Introduction to Analytic Geometry</md:title>
         
@@ -1233,7 +1233,7 @@
     
     
       <col:module document="m49438" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>The Ellipse</md:title>
         
@@ -1245,7 +1245,7 @@
     
     
       <col:module document="m49439" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>The Hyperbola</md:title>
         
@@ -1257,7 +1257,7 @@
     
     
       <col:module document="m49440" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>The Parabola</md:title>
         
@@ -1269,7 +1269,7 @@
     
     
       <col:module document="m49441" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Rotation of Axes</md:title>
         
@@ -1281,7 +1281,7 @@
     
     
       <col:module document="m49442" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Conic Sections in Polar Coordinates</md:title>
         
@@ -1307,7 +1307,7 @@
           
     
       <col:module document="m49443" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction to Sequences, Probability and Counting Theory</md:title>
         
@@ -1319,7 +1319,7 @@
     
     
       <col:module document="m49444" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Sequences and Their Notations</md:title>
         
@@ -1331,7 +1331,7 @@
     
     
       <col:module document="m49445" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.11">
         <md:title>Arithmetic Sequences</md:title>
         
@@ -1343,7 +1343,7 @@
     
     
       <col:module document="m49446" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.8">
         <md:title>Geometric Sequences</md:title>
         
@@ -1355,7 +1355,7 @@
     
     
       <col:module document="m49447" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.13">
         <md:title>Series and Their Notations</md:title>
         
@@ -1367,7 +1367,7 @@
     
     
       <col:module document="m49448" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.10">
         <md:title>Counting Principles</md:title>
         
@@ -1379,7 +1379,7 @@
     
     
       <col:module document="m49449" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.9">
         <md:title>Binomial Theorem</md:title>
         
@@ -1391,7 +1391,7 @@
     
     
       <col:module document="m49450" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Probability</md:title>
         
@@ -1406,7 +1406,7 @@
     
     
       <col:module document="m53186" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="https://legacy.cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Proofs, Identities, and Toolkit Functions</md:title>
         
