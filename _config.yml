@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Algebra and Trigonometry'
-tagline:          'from http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@ (CC-BY)'
+tagline:          'from http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@10.1 (CC-BY)'
 url:              https://github.com/philschatz/algebra-trigonometry-book
-origin:           http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@
+origin:           http://cnx.org/contents/13ac107a-f15f-49d2-97e8-60ab2e3b519c@10.1
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          
+version:          10.1
 
 bookviewer:       https://philschatz.com/book-viewer
 
