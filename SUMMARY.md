@@ -1,2 +1,118 @@
-bundler: command not found: kramdown
-Install missing gem executables with `bundle install`
+---
+title: "Algebra and Trigonometry"
+layout: page
+---
+
+
+<div data-type="abstract">
+Algebra and Trigonometry provides a comprehensive exploration of algebraic principles and meets scope and sequence requirements for a typical introductory algebra and trigonometry course. The modular approach and the richness of content ensure that the book meets the needs of a variety of courses. Algebra and Trigonometry offers a wealth of examples with detailed, conceptual explanations, building a strong foundation in the material before asking students to apply what they’ve learned.
+</div>
+
+1.  {: .preface} [Preface](contents/m63486.md)
+2.  {: .chapter} [Prerequisites](contents/m51240.md)
+    1.  [Real Numbers: Algebra Essentials](contents/m51239.md)
+    2.  [Exponents and Scientific Notation](contents/m51241.md)
+    3.  [Radicals and Rational Exponents](contents/m51242.md)
+    4.  [Polynomials](contents/m51246.md)
+    5.  [Factoring Polynomials](contents/m51247.md)
+    6.  [Rational Expressions](contents/m51248.md)
+
+3.  {: .chapter} [Equations and Inequalities](contents/m51251.md)
+    1.  [The Rectangular Coordinate Systems and Graphs](contents/m51252.md)
+    2.  [Linear Equations in One Variable](contents/m51253.md)
+    3.  [Models and Applications](contents/m51254.md)
+    4.  [Complex Numbers](contents/m51255.md)
+    5.  [Quadratic Equations](contents/m51256.md)
+    6.  [Other Types of Equations](contents/m51258.md)
+    7.  [Linear Inequalities and Absolute Value Inequalities](contents/m51259.md)
+
+4.  {: .chapter} [Functions](contents/m51260.md)
+    1.  [Functions and Function Notation](contents/m51261.md)
+    2.  [Domain and Range](contents/m51262.md)
+    3.  [Rates of Change and Behavior of Graphs](contents/m51263.md)
+    4.  [Composition of Functions](contents/m51265.md)
+    5.  [Transformation of Functions](contents/m51266.md)
+    6.  [Absolute Value Functions](contents/m51267.md)
+    7.  [Inverse Functions](contents/m51268.md)
+
+5.  {: .chapter} [Linear Functions](contents/m51269.md)
+    1.  [Linear Functions](contents/m51270.md)
+    2.  [Modeling with Linear Functions](contents/m51271.md)
+    3.  [Fitting Linear Models to Data](contents/m51272.md)
+
+6.  {: .chapter} [Polynomial and Rational Functions](contents/m51273.md)
+    1.  [Quadratic Functions](contents/m51274.md)
+    2.  [Power Functions and Polynomial Functions](contents/m51275.md)
+    3.  [Graphs of Polynomial Functions](contents/m51276.md)
+    4.  [Dividing Polynomials](contents/m51277.md)
+    5.  [Zeros of Polynomial Functions](contents/m51278.md)
+    6.  [Rational Functions](contents/m51279.md)
+    7.  [Inverses and Radical Functions](contents/m51280.md)
+    8.  [Modeling Using Variation](contents/m51281.md)
+
+7.  {: .chapter} [Exponential and Logarithmic Functions](contents/m49356.md)
+    1.  [Exponential Functions](contents/m49361.md)
+    2.  [Graphs of Exponential Functions](contents/m49362.md)
+    3.  [Logarithmic Functions](contents/m49363.md)
+    4.  [Graphs of Logarithmic Functions](contents/m49364.md)
+    5.  [Logarithmic Properties](contents/m49365.md)
+    6.  [Exponential and Logarithmic Equations](contents/m49366.md)
+    7.  [Exponential and Logarithmic Models](contents/m49367.md)
+    8.  [Fitting Exponential Models to Data](contents/m49368.md)
+
+8.  {: .chapter} [The Unit Circle: Sine and Cosine Functions](contents/m51282.md)
+    1.  [Angles](contents/m51283.md)
+    2.  [Right Triangle Trigonometry](contents/m51284.md)
+    3.  [Unit Circle](contents/m51285.md)
+    4.  [The Other Trigonometric Functions](contents/m51286.md)
+
+9.  {: .chapter} [Periodic Functions](contents/m49386.md)
+    1.  [Graphs of the Sine and Cosine Functions](contents/m49387.md)
+    2.  [Graphs of the Other Trigonometric Functions](contents/m49389.md)
+    3.  [Inverse Trigonometric Functions](contents/m49390.md)
+
+10. {: .chapter} [Trigonometric Identities and Equations](contents/m51287.md)
+    1.  [Solving Trigonometric Equations with Identities](contents/m51288.md)
+    2.  [Sum and Difference Identities](contents/m51289.md)
+    3.  [Double-Angle, Half-Angle, and Reduction Formulas](contents/m51290.md)
+    4.  [Sum-to-Product and Product-to-Sum Formulas](contents/m51291.md)
+    5.  [Solving Trigonometric Equations](contents/m51292.md)
+
+11. {: .chapter} [Further Applications of Trigonometry](contents/m49402.md)
+    1.  [Non-right Triangles: Law of Sines](contents/m49404.md)
+    2.  [Non-right Triangles: Law of Cosines](contents/m49405.md)
+    3.  [Polar Coordinates](contents/m49406.md)
+    4.  [Polar Coordinates: Graphs](contents/m49407.md)
+    5.  [Polar Form of Complex Numbers](contents/m49408.md)
+    6.  [Parametric Equations](contents/m49409.md)
+    7.  [Parametric Equations: Graphs](contents/m49411.md)
+    8.  [Vectors](contents/m49412.md)
+
+12. {: .chapter} [Systems of Equations and Inequalities](contents/m49418.md)
+    1.  [Systems of Linear Equations: Two Variables](contents/m49420.md)
+    2.  [Systems of Linear Equations: Three Variables](contents/m49419.md)
+    3.  [Systems of Nonlinear Equations and Inequalities: Two Variables](contents/m49431.md)
+    4.  [Partial Fractions](contents/m49432.md)
+    5.  [Matrices and Matrix Operations](contents/m49433.md)
+    6.  [Solving Systems with Gaussian Elimination](contents/m49434.md)
+    7.  [Solving Systems with Inverses](contents/m49435.md)
+    8.  [Solving Systems with Cramer\'s Rule](contents/m49436.md)
+
+13. {: .chapter} [Analytic Geometry](contents/m49437.md)
+    1.  [The Ellipse](contents/m49438.md)
+    2.  [The Hyperbola](contents/m49439.md)
+    3.  [The Parabola](contents/m49440.md)
+    4.  [Rotation of Axes](contents/m49441.md)
+    5.  [Conic Sections in Polar Coordinates](contents/m49442.md)
+
+14. {: .chapter} [Sequences, Probability, and Counting Theory](contents/m49443.md)
+    1.  [Sequences and Their Notations](contents/m49444.md)
+    2.  [Arithmetic Sequences](contents/m49445.md)
+    3.  [Geometric Sequences](contents/m49446.md)
+    4.  [Series and Their Notations](contents/m49447.md)
+    5.  [Counting Principles](contents/m49448.md)
+    6.  [Binomial Theorem](contents/m49449.md)
+    7.  [Probability](contents/m49450.md)
+
+15. {: .appendix} [Proofs, Identities, and Toolkit Functions](contents/m53186.md)
+
