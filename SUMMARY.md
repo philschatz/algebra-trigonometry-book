@@ -4,9 +4,7 @@ layout: page
 ---
 
 
-<div data-type="abstract">
-Algebra and Trigonometry provides a comprehensive exploration of algebraic principles and meets scope and sequence requirements for a typical introductory algebra and trigonometry course. The modular approach and the richness of content ensure that the book meets the needs of a variety of courses. Algebra and Trigonometry offers a wealth of examples with detailed, conceptual explanations, building a strong foundation in the material before asking students to apply what they’ve learned.
-</div>
+<div data-type="abstract"></div>
 
 1.  {: .preface} [Preface](contents/m63486.md)
 2.  {: .chapter} [Prerequisites](contents/m51240.md)
